@@ -4,5 +4,5 @@ possuo exeperiencia em suporte manutenção de rede (SWITCHS, cabeamento, patch 
 Atualmente sou estagiário da Secretaria da Justiça e Cidadania, onde presto suporte na manutenção de redes ,usuario, suporte em eventos e também na parte de desenvolvimento
 de projetos tais como intranet utilizando Sherepoint e migração dos servidores fisícos para o Microsoft Azure.
 Possuo conhecimento intermediario em LibreOffice e pacote Office365. 
-Irei postar aqui meus estudos sobre os codigo, pretendo adicionar um estudo por dia.
+
 
